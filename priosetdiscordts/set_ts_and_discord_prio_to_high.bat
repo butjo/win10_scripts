@@ -31,4 +31,3 @@ IF %discord_set% EQU 0 (
 IF %ts_set% EQU 0 (
     GOTO:LOOP
 )
-pause

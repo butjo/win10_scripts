@@ -1,0 +1,2 @@
+# How to use
+The bat must be run with admin rights so use [this](https://www.techrepublic.com/blog/windows-and-office/make-vista-launch-uac-restricted-programs-at-startup-with-task-scheduler/) way to put on autostart 
